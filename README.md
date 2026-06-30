@@ -1,2 +1,2 @@
-# trabalho-uma-ana
+# trabalho-urna-ana
 Projeto de avaliação do curso
